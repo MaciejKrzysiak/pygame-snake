@@ -8,7 +8,9 @@ Simple snake recreation using the pygame python library.
 ## Installation
 
 Easiest way to install is using Git via the command line. 
+
 You can install git here: [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+
 Once installed, run via your terminal:
 
 ```
